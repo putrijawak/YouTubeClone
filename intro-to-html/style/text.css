@@ -1,0 +1,86 @@
+.tahoma-font{
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+.arial-font{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 24px;
+    width: 300px;
+    line-height: 30px
+}
+.sales{
+    font-weight: lighter;
+    font-size: 15px;
+    color: red;
+}
+
+.title{
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.title-2{
+    font-family: Verdana;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: gray;  
+}
+
+.description{
+    font-family: Verdana;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    width: 300px;
+}
+
+.get-started-button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+.font-arial{
+    width: 380px;
+    text-align: center;
+    font-family: Arial;
+}
+
+.judul{
+    font-size: 25px;
+    font-weight: bold;
+    width: 50px;
+}
+
+.judul{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Arial;
+    width: 300px;
+}
+
+.deskripsi{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    width: 300px;
+}
+
+.learn-more{
+    text-align: center;
+    width: 300px;
+    font-family: Arial;
+    color: blue;
+    font-size: 12px;
+}
